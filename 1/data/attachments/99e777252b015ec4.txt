@@ -1,0 +1,5 @@
+{
+  "id": 7830,
+  "meter_brand": "string",
+  "meter_type": "string"
+}

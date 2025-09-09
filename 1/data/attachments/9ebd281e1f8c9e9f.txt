@@ -1,0 +1,5 @@
+{
+  "id": 5904,
+  "usergroup": "string",
+  "role": "string"
+}

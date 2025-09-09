@@ -1,0 +1,21 @@
+{
+    "id": 2,
+    "fullname": "Emediong",
+    "username": "emediongetuk323@gmail.com",
+    "roles": "Super-Admin",
+    "pagerole": "1",
+    "disco": "abuja disco",
+    "prop_scheme": "PMI",
+    "canwrite": true,
+    "auth_level": "PMI-SGDL",
+    "mailgoup": false,
+    "inroles": "PMI",
+    "lockstatus": false,
+    "userpresnt": true,
+    "logtime": "2025-09-02T16:00:09.4958593",
+    "datejoint": "0001-01-01T00:00:00",
+    "password": "",
+    "passcode": "",
+    "codevalid": "2025-09-01T13:22:12.6024546",
+    "retry": 0
+}

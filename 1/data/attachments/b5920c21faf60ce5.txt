@@ -1,0 +1,1 @@
+{"cc":0,"responsecode":201,"data":null,"responsemessage":"string string","patterns":"","responsStatus":true,"totalpage":0,"currentpage":0}

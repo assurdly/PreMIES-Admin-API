@@ -1,0 +1,55 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{
+    "id": 8,
+    "m_supplier": "Mita Suplaya",
+    "m_brand": "Mbah Power Limited",
+    "company": "Ifeoma Tester",
+    "m_country": "united-kingdom",
+    "emailaddress": "mitams@yopmail.com",
+    "pri_contact": "Ifeoma Tester",
+    "contact_email": "mitams@yopmail.com",
+    "company_phone": "80123302345",
+    "roles": "",
+    "vendor_id": "Mita",
+    "mailgoup": true,
+    "phone_number": "80123302345",
+    "country": "country1",
+    "state": "Lagos",
+    "address": "12, Tazah Street, Lagos",
+    "zipcode": "40751",
+    "firstname": "",
+    "lastname": "",
+    "fullname": "Meetah Suplaya",
+    "mcount": 0,
+    "concount": 1,
+    "accountstatus": false,
+    "datejoin": "2025-08-29T17:25:44.0503349",
+    "lastlogin": "2025-09-02T17:05:33.6108699",
+    "contract": 1
+}

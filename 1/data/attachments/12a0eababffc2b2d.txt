@@ -1,0 +1,1 @@
+{"cc":0,"responsecode":401,"data":null,"responsemessage":"The property 'MeterBrand.id' has a temporary value while attempting to change the entity's state to 'Deleted'. Either set a permanent value explicitly, or ensure that the database is configured to generate values for this property.","patterns":"","responsStatus":false,"totalpage":0,"currentpage":0}

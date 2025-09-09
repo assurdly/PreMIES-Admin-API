@@ -1,0 +1,1 @@
+{"cc":0,"responsecode":200,"data":{"total":0,"read":0,"unread":0,"archived":0},"responsemessage":"","patterns":"","responsStatus":true,"totalpage":0,"currentpage":0}

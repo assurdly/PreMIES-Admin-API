@@ -1,0 +1,1 @@
+{"cc":0,"responsecode":301,"data":null,"responsemessage":"No activity can commence, no meter assigned","patterns":"","responsStatus":false,"totalpage":0,"currentpage":0}

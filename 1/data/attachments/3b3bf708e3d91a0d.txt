@@ -1,0 +1,5 @@
+{
+    "contract_id": "Friday_review_contract",
+    "disco": "Abuja Electricity Distribution Company",
+    "vendor_id": "ErnestKlien"
+}

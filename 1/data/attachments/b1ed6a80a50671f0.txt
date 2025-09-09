@@ -1,0 +1,1 @@
+{"cc":0,"responsecode":200,"data":{"assigned_contract":2,"complete_contract":0,"active_contract":2,"qunty_request":6,"supply":0,"meters":0},"responsemessage":"","patterns":"","responsStatus":true,"totalpage":0,"currentpage":0}

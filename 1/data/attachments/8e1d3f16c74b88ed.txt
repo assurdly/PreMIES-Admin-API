@@ -1,0 +1,1 @@
+{"type":"https://tools.ietf.org/html/rfc9110#section-15.5.1","title":"One or more validation errors occurred.","status":400,"errors":{"data":["The data field is required."],"$.id":["The JSON value could not be converted to System.Int32. Path: $.id | LineNumber: 1 | BytePositionInLine: 9."]},"traceId":"00-124e5bc6feab73b0944db9c1c638490c-6bf8e187e5226c62-01"}

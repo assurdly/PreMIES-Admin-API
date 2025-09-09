@@ -1,0 +1,18 @@
+{
+    "m_supplier": "Mita Soplaya",
+    "company": "Mita Soplaya",
+    "disco": "Abuja Electricity Distribution Company",
+    "prop_scheme": "DISREP",
+    "contract_id": "Sabinus-natus",
+    "contract_title": "Sabinus natus",
+    "emailaddress": "mitams@yopmail.com",
+    "expected_delivery": "2025-09-23T23:00:00.000Z",
+    "endate": "2025-09-03T23:00:00.000Z",
+    "meterphase": "Both Phase",
+    "meter_brand": "Mbah Power Limited",
+    "quantity": 6,
+    "review_by": "gilmaf@yopmail.com",
+    "constractStatusd_dstatus": "pending",
+    "role": "group admin",
+    "amount": 0
+}

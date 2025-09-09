@@ -1,0 +1,1 @@
+{"cc":0,"responsecode":200,"data":{"contract":10,"meters":11733,"assigned":4,"assignedmeter":4,"pending":9,"pendingmeter":7,"sphasecontract":2,"tphasecontract":3,"sphaseupload":0,"tphaseupload":0,"sphaseinstalled":0,"tphaseinstalled":0},"responsemessage":"","patterns":"","responsStatus":true,"totalpage":0,"currentpage":0}

@@ -1,0 +1,1 @@
+{"cc":0,"responsecode":200,"data":[{"id":102323,"logdate":"2025-09-09T17:05:12.0460849","logtype":"Contract","logmessage":"Contract Cancelled Contract ID Mita Soplaya Contract ID Lex-Electric","logby":"Emediong","logid":"252b89e4-6241-4c6c-b720-56b7f11a8fe3","logevent":"Cancelled Contract"}],"responsemessage":"","patterns":"","responsStatus":true,"totalpage":1,"currentpage":1}

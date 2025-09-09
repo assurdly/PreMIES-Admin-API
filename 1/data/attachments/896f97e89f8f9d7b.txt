@@ -1,0 +1,9 @@
+{
+
+  "logdate": "1986-10-07T05:48:20.842Z",
+  "logtype": "string",
+  "logmessage": "string",
+  "logby": "string",
+  "logid": "string",
+  "logevent": "string"
+}

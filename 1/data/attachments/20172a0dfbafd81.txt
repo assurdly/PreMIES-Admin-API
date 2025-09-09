@@ -1,0 +1,4 @@
+{
+  "meter_brand": "string",
+  "meter_type": "string"
+}

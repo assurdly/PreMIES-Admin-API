@@ -1,0 +1,18 @@
+{
+    "m_supplier": "Mita Soplaya",
+    "company": "Mita Soplaya",
+    "disco": "Abuja Electricity Distribution Company",
+    "prop_scheme": "DISREP",
+    "contract_id": "Croxhair-Electric",
+    "contract_title": "Croxhair Electric",
+    "emailaddress": "mitams@yopmail.com",
+    "expected_delivery": "2025-09-29T23:00:00.000Z",
+    "endate": "2025-09-03T23:00:00.000Z",
+    "meterphase": "Both Phase",
+    "meter_brand": "Mojec Meter Company Limited",
+    "quantity": 0,
+    "review_by": "gilmaf@yopmail.com",
+    "constractStatusd_dstatus": "pending",
+    "role": "group admin",
+    "amount": 4500000
+}

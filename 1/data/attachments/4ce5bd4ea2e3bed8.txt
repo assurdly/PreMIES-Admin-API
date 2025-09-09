@@ -1,0 +1,12 @@
+{
+    "fullname": "Vivien Ford",
+    "email": " ",
+    "roles": "Admin",
+    "pagerole": "1",
+    "auth_level": "DISREP",
+    "disco": "",
+    "canwrite": true,
+    "prop_scheme": "DISREP",
+    "inrole": "DISREP",
+    "mailgoup": true
+}
